@@ -14,7 +14,7 @@ The Tech Blog is a blog website where developers can publish their blog posts an
 
 ## Deployed Application
 
-[Tech Blog]()
+[Tech Blog](https://aliblof-site.herokuapp.com/)
 ![Image](./assets/imges/Screen%20Shot%202022-11-18%20at%201.39.39%20PM.png)
 
 ## User Story
